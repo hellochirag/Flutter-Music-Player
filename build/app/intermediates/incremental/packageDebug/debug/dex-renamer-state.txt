@@ -1,0 +1,4 @@
+#Thu Sep 19 23:36:14 IST 2019
+base.0=/Users/chiragjadav/Downloads/Flutter-Radio-App/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
